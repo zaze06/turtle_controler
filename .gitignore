@@ -1,0 +1,21 @@
+# Project exclude paths
+/node_modules/
+/src/servers/BaseServer.js
+/src/servers/BaseServer.js.map
+/src/servers/StorageServer.js
+/src/servers/StorageServer.js.map
+/src/app.js.map
+/src/Client.js
+/src/Client.js.map
+/src/ClientType.js
+/src/ClientType.js.map
+/src/Names.js
+/src/Names.js.map
+/src/position.js
+/src/position.js.map
+/src/RequestTypes.js
+/src/RequestTypes.js.map
+/src/Server.js
+/src/Server.js.map
+/src/ServerTypes.js
+/src/ServerTypes.js.map
